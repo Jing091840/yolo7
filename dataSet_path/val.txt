@@ -1,0 +1,2 @@
+C:/Users/ST/Desktop/AI_Lin/yolov7/yolov7/keyData/Images/17.jpg
+C:/Users/ST/Desktop/AI_Lin/yolov7/yolov7/keyData/Images/7.jpg

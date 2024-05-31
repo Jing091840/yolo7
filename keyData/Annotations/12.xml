@@ -1,0 +1,25 @@
+<annotation>
+	<folder>my-project-name</folder>
+	<filename>c738346794c906597b37a5c7ef8bb930.jpg</filename>
+	<path>/my-project-name/c738346794c906597b37a5c7ef8bb930.jpg</path>
+	<source>
+		<database>Unspecified</database>
+	</source>
+	<size>
+		<width>768</width>
+		<height>1024</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name> fried egg</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>70</xmin>
+			<ymin>236</ymin>
+			<xmax>626</xmax>
+			<ymax>794</ymax>
+		</bndbox>
+	</object>
+</annotation>

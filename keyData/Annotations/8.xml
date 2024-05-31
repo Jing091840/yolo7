@@ -1,0 +1,25 @@
+<annotation>
+	<folder>my-project-name</folder>
+	<filename>15uses4eggs-1100-opener-main-1485963051.jpg</filename>
+	<path>/my-project-name/15uses4eggs-1100-opener-main-1485963051.jpg</path>
+	<source>
+		<database>Unspecified</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name> fried egg</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>68</xmin>
+			<ymin>47</ymin>
+			<xmax>535</xmax>
+			<ymax>612</ymax>
+		</bndbox>
+	</object>
+</annotation>

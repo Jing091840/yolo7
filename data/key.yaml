@@ -1,0 +1,13 @@
+# train and val data as 1) directory: path/images/, 2) file: path/images.txt, or 3) list: [path1/images/, path2/images/]
+train: C:/Users/ST/Desktop/AI_Lin/yolov7/yolov7/keyData/dataSet_path/train.txt
+val: C:/Users/ST/Desktop/AI_Lin/yolov7/yolov7/keyData/dataSet_path/val.txt
+test:
+
+# number of classes
+nc: 2
+
+# class names
+names:
+  - fried egg
+  - scrambled eggs
+  # other configurations...
